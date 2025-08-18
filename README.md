@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I’m <strong>Mahid Ahmad</strong> (@mahid797) 👋</h1>
+<h1 align="center">Hi, I’m <strong>Mahid Ahmad</strong>👋</h1>
 <p align="center">
   <em>Full-Stack Engineer • Building Modern Web Apps & Self-Hostable AI Infrastructure</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mahid797?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mahid797?label=Follow&style=for-the-badge"></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=mahid797"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=mahid797&style=for-the-badge"></a>
-</p>
-
----
+</p> -->
 
 ### 👋 About me
 I build secure, scalable platforms across both frontend and backend — with a focus on TypeScript, modern web frameworks, and self-hostable AI/LLM infrastructure.
