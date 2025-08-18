@@ -33,18 +33,18 @@ I build secure, scalable platforms across both frontend and backend — with a f
 </p>
 
 <details>
-  <summary style="margin-bottom: 15px">Also experienced with</summary>
+  <summary>Also experienced with</summary><br/>
   <p align="center" >
     <img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white">
     <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-3BA9F4?logo=daisyui&logoColor=white">
     <img alt="Radix UI" src="https://img.shields.io/badge/Radix-000000?logo=radixui&logoColor=white">
-		<img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white">
+	<img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white">
   	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
-		<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-		<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white">
-		<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
-		<img alt="NextAuth" src="https://img.shields.io/badge/NextAuth-000000?logo=nextauth&logoColor=white">
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+	<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+	<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white">
+	<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
+	<img alt="NextAuth" src="https://img.shields.io/badge/NextAuth-000000?logo=nextauth&logoColor=white">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white">
     <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white">
@@ -53,7 +53,7 @@ I build secure, scalable platforms across both frontend and backend — with a f
     <img alt="C/C++" src="https://img.shields.io/badge/C%2FC++-00599C?logo=cplusplus&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white">
-		<img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white">
+	<img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   </p>
 </details>
@@ -79,6 +79,7 @@ Compliance-friendly, self-hostable LLM gateway with an OpenAI‑compatible API, 
 
 
 <p>🤷‍♂️ <em>Was supposed to “just handle the frontend”… 3 months later I was building the entire backend + infrastructure — because someone had to do it properly.</em></p>
+
 ---
 
 ### 🛠️ Other Projects
