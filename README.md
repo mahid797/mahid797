@@ -96,16 +96,16 @@ Compliance-friendly, self-hostable LLM gateway with an OpenAI‑compatible API, 
 - <b>Learning:</b> Redis internals, self-hosting workflows, and real-world LLM routing
 - <b>Ask me about:</b> Full-stack Next.js, OAuth/Auth0/NextAuth, AI integrations, and deployment strategy
 
----
 
-### 📊 GitHub at a glance
-<p align="center">
-  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mahid797&show_icons=true&theme=transparent&hide_border=true&hide_title=true">
-  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahid797&layout=compact&theme=transparent&hide_border=true&card_width=320">
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahid797&theme=gotham&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=550" alt="GitHub Streak" /></a>
-</p>
+
+<!--### 📊 GitHub at a glance -->
+<!-- <p align="center"> -->
+  <!--<img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mahid797&show_icons=true&theme=transparent&hide_border=true&hide_title=true"> -->
+  <!-- <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahid797&layout=compact&theme=transparent&hide_border=true&card_width=320"> -->
+<!-- </p> -->
+<!-- <p align="center"> -->
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahid797&theme=gotham&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=550" alt="GitHub Streak" /></a> -->
+<!-- </p> -->
 
 
 ---
