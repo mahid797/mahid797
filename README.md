@@ -61,10 +61,13 @@ I build secure, scalable platforms across both frontend and backend — with a f
 ---
 
 <div style="margin-bottom: 20px;">
-  <h3 style="margin: 0px; margin-right: 20px;">🚀 Flagship: <a href="https://github.com/bluewave-labs/langroute">LangRoute</a>
-  <a href="https://github.com/bluewave-labs/langroute">
+  <h3 style="margin: 0px; margin-right: 20px;">🚀 Flagship: 
+	  <!-- <a href="https://github.com/bluewave-labs/langroute"> -->
+	  LangRoute
+  <!-- </a> -->
+  <!-- <a href="https://github.com/bluewave-labs/langroute">
     <img alt="LangRoute stars" src="https://img.shields.io/github/stars/bluewave-labs/langroute?style=social" style="margin-top: 10px;">
-  </a>
+  </a> -->
 </h3>
 </div>
 
